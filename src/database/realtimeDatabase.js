@@ -1,0 +1,1 @@
+export const baseUrl = "https://memolife-d56c4-default-rtdb.europe-west1.firebasedatabase.app/";
